@@ -1,1 +1,1 @@
-# Omnifood-
+# Omnifood- Responsive web design
